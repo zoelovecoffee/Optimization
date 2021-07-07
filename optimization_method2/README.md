@@ -1,0 +1,2 @@
+# paper review optimization
+There are 71 papers that have been submitted to the conference. We have 21 referees to review these papers. Each paper needs to be reviewed by 3 referees. So, we need a total of 71 × 3 = 213 reviews, which means that each referee needs to review 213/21 = 10.14 papers on average. Since reviewing fractional papers is not possible, a reasonable solution could have 18 referees reviewing 10 papers each, and 3 referees reviewing 11 papers each so that we can collect a total of 213 reviews for 71 papers.
