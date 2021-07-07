@@ -1,2 +1,2 @@
 # shortest path and minimum cost 
-using gurobipy
+Detailed explantions in jupyter notebook. 
