@@ -1,2 +1,2 @@
-# math_modeling
-optimization; probability
+# Optimization 
+Linear programming using Gurobipy
